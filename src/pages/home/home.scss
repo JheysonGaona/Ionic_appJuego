@@ -1,0 +1,98 @@
+page-home{
+
+    margin: 0;
+    padding: 0;
+
+    *::-webkit-scrollbar {
+        display: none;
+      }
+
+    ion-title{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+
+    .body{
+        // background-image: url('../../assets/imgs/mar.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .imgLogo{
+        max-height: 20%;
+        margin: -20px auto -10px;
+        display: block;
+    }
+    
+    .imgNinoPensando{
+        max-height: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .label{
+        font-size: 1.2em;
+        width: 280px;
+        margin: 5px auto 7px;
+        display: block;
+        color: #000000;
+        text-align: center;
+        text-shadow: #9D9B5A 0.1em 0.1em 0.2em;
+        font-family: 'Merienda', cursive;
+    }
+    
+    #txtName{
+        height: 45px;
+        width: 280px;
+        padding: 5px 10px;
+        font-size: 1.3em;
+        box-shadow: 6px 6px 3px 0px rgba(0,0,0, 0.4);
+        margin: 0 auto 15px;
+        text-shadow: 1px 1px #999;
+        border: 3px solid #FC9700 !important;
+        display: block;
+        text-align: center;
+        color: #000000;
+        font-family: 'Merienda', cursive;
+    }
+
+    #txtName:focus{
+        border: 3px solid #00EFDC !important;
+        box-shadow: none;
+    }
+    
+    #btnJugar{
+        width: 280px;
+        height: 65px;
+        border-radius: 12px;
+        background-size: 100%;
+        margin: 5px auto 8px;
+        border: none;
+        display: block;
+        background-color: transparent;
+        background-image: url('../../assets/imgs/BtnJugarClickeado.png');
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #btnJugar:hover{
+        background-image: url('../../assets/imgs/BtnJugar.png');
+    }
+    
+    footer{
+        height: 20px;
+        width: 260px;
+        padding: 0 12px;
+        font-size: 0.9em;
+        margin: 10px auto 0;
+        display: flex;
+        text-align: center;
+        text-shadow: 0.5px 0.5px #DFDFDF;
+    }
+
+    .imgLogoUtpl{
+        max-height: 100%;
+        margin-left: 5px;
+    }
+}

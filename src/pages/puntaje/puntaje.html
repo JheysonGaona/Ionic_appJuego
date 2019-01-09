@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-navbar hideBackButton color="Score">
+    <ion-title>
+      <b>
+          Resultados
+      </b>
+    </ion-title>
+  </ion-navbar>
+  <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
+  <meta charset="UTF-8">
+</ion-header>
+
+<ion-content padding class="body">
+  <div class="titlePuntaje">PUNTAJE: {{ puntaje }} PUNTOS</div>
+  <img class="imgEmoji" *ngIf="puntaje == 100" src="../assets/imgs/puntaje{{puntaje}}.gif">
+  <img class="imgEmoji" *ngIf="puntaje >= 0 && puntaje <= 90" src="../assets/imgs/puntaje{{puntaje}}.png">
+  <div class="containerAciertos">
+    <div class="containerLikeDislike">
+      <ion-img class="imgAcierto" src="../assets/imgs/pulgar_arriba.png"></ion-img>
+      <label>Correctas</label>
+    </div>
+    <div class="puntaje"> {{ aciertos }} </div>
+    <div class="containerLikeDislike">
+      <ion-img class="imgAcierto" src="../assets/imgs/pulgar_abajo.png"></ion-img>
+      <label>Incorrectas</label>
+    </div>
+    <div class="puntaje"> {{ errores }} </div>
+    <div class="containerLikeDislike">
+        <ion-img class="imgAcierto" src="../assets/imgs/timer.png"></ion-img>
+        <label>Fuera de tiempo</label>
+      </div>
+      <div class="puntaje"> {{ fueraTiempo }} </div>
+  </div>
+  <button ion-button class="btnContinuar" (click)="pagCategories()">Continuar</button>
+</ion-content>

@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+	    "pregunta": "¿Cómo se llama el deporte donde, hay que meter la pelota por medio de un aro?",
+		"opcion1": "Soccer",
+		"opcion2": "Voleibol",
+		"opcion3": "Fútbol americano",
+		"opcion4": "Basketball",
+        "respuesta": "Basketball"
+	},
+	{
+		"id": 2,
+	    "pregunta": "¿Qué deporte consta de 2 equipos y cada un tiene 11 jugadores?",
+		"opcion1": "Fútbol",
+		"opcion2": "Baloncesto",
+		"opcion3": "Voleibol",
+		"opcion4": "Tenis",
+        "respuesta": "Fútbol"
+    },
+	{
+		"id": 3,
+	    "pregunta": "¿Cómo se llama el deporte que tiene como objetivo meter una pelota pequeña dentro de un hoyo?",
+		"opcion1": "Billar",
+		"opcion2": "Golf",
+		"opcion3": "Ping pong",
+		"opcion4": "Lanzamiento de disco",
+        "respuesta": "Golf"
+    },
+	{
+		"id": 4,
+	    "pregunta": "¿Cuál es el grado más alto de cinta para el karate?",
+		"opcion1": "Cinta blanca",
+		"opcion2": "Cinta amarilla",
+		"opcion3": "Cinta roja",
+		"opcion4": "Cinta negra",
+        "respuesta": "Cinta negra"
+    },
+	{
+		"id": 5,
+	    "pregunta": "¿Cómo se llama el atleta ecuatoriano especializado en la marcha atlética que ha ganado medallas en los Juegos Olimpicos?",
+		"opcion1": "Jefferson Pérez",
+		"opcion2": "José Francisco Cevallos",
+		"opcion3": "Álex Aguinaga",
+		"opcion4": "Christian Benítez",
+        "respuesta": "Jefferson Pérez"
+    },
+	{
+		"id": 6,
+	    "pregunta": "¿Cuál es el juego que consiste en: los jugadores que estan en el centro deben esquivar la pelota?",
+		"opcion1": "Las escondidas",
+		"opcion2": "Congelados",
+		"opcion3": "El quemado",
+		"opcion4": "La cuerda",
+        "respuesta": "El quemado"
+    },
+    {
+		"id": 7,
+	    "pregunta": "En qué equipo de fútbol esta Lionel Messi?",
+		"opcion1": "FC Barcelona",
+		"opcion2": "Real Madrid",
+		"opcion3": "Chelsea",
+		"opcion4": "Liverpool",
+        "respuesta": "FC Barcelona"
+    },
+    {
+		"id": 8,
+	    "pregunta": "En qué equipo de fútbol esta Cristiano Ronaldo CR7?",
+		"opcion1": "Juventus",
+		"opcion2": "Athletic Club",
+		"opcion3": "FC Barcelona",
+		"opcion4": "Real Madrid",
+        "respuesta": "Juventus"
+    },
+    {
+		"id": 9,
+	    "pregunta": "¿En cuál de los siguientes deportes se puede tocar el balón con las manos?",
+		"opcion1": "Fútbol",
+		"opcion2": "Tenis de mesa",
+		"opcion3": "Bádminton",
+		"opcion4": "Baloncesto",
+        "respuesta": "Baloncesto"
+    },
+    {
+		"id": 10,
+	    "pregunta": "¿Cómo se llama el deporte donde se usa la bicicleta?",
+		"opcion1": "Ciclismo",
+		"opcion2": "Natación",
+		"opcion3": "Skateboarding",
+		"opcion4": "Patinaje",
+        "respuesta": "Ciclismo"
+	}
+]

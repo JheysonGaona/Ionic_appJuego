@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-navbar color="{{ categoria }}">
+    <ion-title>
+      <b>
+        {{ categoria }}
+      </b>
+    </ion-title>
+  </ion-navbar>
+  <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
+  <meta charset="UTF-8">
+</ion-header>
+
+<ion-content padding class="body">
+  <div class="timer">
+    <time>Tiempo restante: {{ timerSeg }} seg</time>
+  </div>
+  <div class="lblPregunta">
+    {{ preguntaRandom }}
+  </div>
+  <div class="contenedorBotones">
+    <button ion-button class="btn" (click)="validarRespuesta(opcion1Random)">{{ opcion1Random }}</button>
+    <button ion-button class="btn" (click)="validarRespuesta(opcion2Random)">{{ opcion2Random }}</button>
+    <button ion-button class="btn" (click)="validarRespuesta(opcion3Random)">{{ opcion3Random }}</button>
+    <button ion-button class="btn" (click)="validarRespuesta(opcion4Random)">{{ opcion4Random }}</button>
+  </div>
+</ion-content>

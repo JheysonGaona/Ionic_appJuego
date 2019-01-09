@@ -1,0 +1,256 @@
+page-categorias{
+    
+    margin: 0;
+    padding: 0;
+
+    *::-webkit-scrollbar {
+        display: none;
+    }
+
+    ion-title{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+
+    #body{
+        background-image: url('../../assets/imgs/mar.jpg');
+        background-size: cover;
+        background-repeat:no-repeat;
+        background-position: center;
+    }
+
+    .lblSaludo{
+        font-size: 1.2em;
+        width: 300px;
+        height: 200px;
+        max-width: 120%;
+        padding: 0 35px;
+        background-size: 100%;
+        color: #00CACA;
+        text-shadow: 1px 1px #000000;
+        margin: 0 auto;
+        background-image: url('../../assets/imgs/nube.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        text-align: center;
+        font-family: 'Merienda', cursive;
+        font-weight: bold;
+    }
+
+    .container{
+        margin: 15px auto 0;
+        background-color:rgba(0, 0, 0, 0.6);
+        border-radius: 30px;
+        width: 300px;
+        padding: 5px 0;
+    }
+
+    .btnCategories{
+        width: 90%;
+        height: 50px;
+        font-size: 1.3em;
+        border-radius: 30px;
+        margin: 15px auto;
+        text-shadow: 1.3px 1.3px #707070;
+        display: block;
+        color: #000000;
+        font-family: 'Merienda', cursive;
+        font-weight: bold;
+        border: 2px solid #000000;
+        background-color: #31FDFD;
+        box-shadow: inset 0px 0px 10px 2px rgba(0,0,0,0.9);
+    }
+
+    .btnCategories:hover{
+        background-color: #ffffff;
+        box-shadow: 6px 6px 3px 0px rgba(0,0,0, 0.4);
+    }
+}
+
+.Entretenimiento{
+
+    .alert-title {
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: 'Merriweather', serif;
+        color: #ffffff;
+        text-shadow: 1.3px 1.3px #000000;
+    }
+    
+    .alert-wrapper{
+        background-color: #FB80DC;
+        border-radius: 15px;
+    }
+
+    h3{
+        background-image: url('../../assets/imgs/Entretenimiento.png');
+        height: 200px;
+        background-size: 100%;
+        background-repeat:no-repeat;
+        background-position: center;
+        background-color: #ffffff;
+        border-radius: 15px;
+    }
+
+    .alert-button{
+        background-color: #DF17AE;
+        box-shadow: 0px 0px 10px 4px rgba(107, 0, 80, 0.75);
+        border: 5px solid #970E75;
+        margin: -10px auto 20px;
+        margin-right: 15px;
+        font-family: 'Luckiest Guy', cursive;
+        width: 100%;
+        height: 65px;
+        font-size: 2.5em;
+        flex-direction: column;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 65px;
+        border-radius: 15px; 
+        color: #ffffff;
+        text-shadow: 1.5px 1.5px #000000;
+    }
+}
+
+.Animales{
+
+    .alert-title {
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: 'Merriweather', serif;
+        color: #ffffff;
+        text-shadow: 1.3px 1.3px #000000;
+    }
+    
+    .alert-wrapper{
+        background-color: #FF3F3F;
+        border-radius: 15px;
+    }
+
+    h3{
+        background-image: url('../../assets/imgs/Animales.jpg');
+        height: 200px;
+        background-size: 80%;
+        background-repeat:no-repeat;
+        background-position: center;
+        background-color: #ffffff;
+        border-radius: 15px;
+    }
+
+    .alert-button{
+        background-color: #FF0000;
+        box-shadow: 0px 0px 10px 4px rgba(139, 0, 0, 0.75);
+        border: 5px solid #A00000;
+        margin: -10px auto 20px;
+        margin-right: 15px;
+        font-family: 'Luckiest Guy', cursive;
+        width: 100%;
+        height: 65px;
+        font-size: 2.5em;
+        flex-direction: column;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 65px;
+        border-radius: 15px; 
+        color: #ffffff;
+        text-shadow: 1.5px 1.5px #000000;
+    }
+}
+
+.Ciencias{
+
+    .alert-title {
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: 'Merriweather', serif;
+        color: #ffffff;
+        text-shadow: 1.3px 1.3px #000000;
+    }
+    
+    .alert-wrapper{
+        background-color: #63C44A;
+        border-radius: 15px;
+    }
+
+    h3{
+        background-image: url('../../assets/imgs/Ciencias.png');
+        height: 200px;
+        background-size: 80%;
+        background-repeat:no-repeat;
+        background-position: center;
+        background-color: #ffffff;
+        border-radius: 15px;
+    }
+
+    .alert-button{
+        background-color: #248609;
+        box-shadow: 0px 0px 10px 4px rgba(17, 82, 0, 0.75);
+        border: 5px solid #125401;
+        margin: -10px auto 20px;
+        margin-right: 15px;
+        font-family: 'Luckiest Guy', cursive;
+        width: 100%;
+        height: 65px;
+        font-size: 2.5em;
+        flex-direction: column;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 65px;
+        border-radius: 15px; 
+        color: #ffffff;
+        text-shadow: 1.5px 1.5px #000000;
+    }
+}
+
+.Deportes{
+
+    .alert-title {
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: 'Merriweather', serif;
+        color: #ffffff;
+        text-shadow: 1.3px 1.3px #000000;
+    }
+    
+    .alert-wrapper{
+        background-color: #FE7539;
+        border-radius: 15px;
+    }
+
+    h3{
+        background-image: url('../../assets/imgs/Deportes.jpg');
+        height: 200px;
+        background-size: 95%;
+        background-repeat:no-repeat;
+        background-position: center;
+        background-color: #ffffff;
+        border-radius: 15px;
+    }
+
+    .alert-button{
+        background-color: #F35D1F;
+        box-shadow: 0px 0px 10px 4px rgba(163, 49, 0, 0.75);
+        border: 5px solid #A93908;
+        margin: -10px auto 20px;
+        margin-right: 15px;
+        font-family: 'Luckiest Guy', cursive;
+        width: 100%;
+        height: 65px;
+        font-size: 2.5em;
+        flex-direction: column;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 65px;
+        border-radius: 15px; 
+        color: #ffffff;
+        text-shadow: 1.5px 1.5px #000000;
+    }
+}

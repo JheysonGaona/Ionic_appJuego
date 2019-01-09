@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+	    "pregunta": "Calcula: 10 + 5 + 4",
+		"opcion1": "22",
+		"opcion2": "19",
+		"opcion3": "15",
+		"opcion4": "10",
+        "respuesta": "19"
+	},
+	{
+		"id": 2,
+	    "pregunta": "¿Cómo conocemos al compuesto químico H2O?",
+		"opcion1": "Agua",
+		"opcion2": "Dióxido de carbono",
+		"opcion3": "Hierro",
+		"opcion4": "Plata",
+        "respuesta": "Agua"
+    },
+	{
+		"id": 3,
+	    "pregunta": "¿Cuál es la fórmula del dióxido de carbono?",
+		"opcion1": "H2O",
+		"opcion2": "FE",
+		"opcion3": "CO",
+		"opcion4": "CO2",
+        "respuesta": "CO2"
+    },
+	{
+		"id": 4,
+	    "pregunta": "¿De qué esta compuesto principalmente el chocolate?",
+		"opcion1": "Azúcar",
+		"opcion2": "Cacao",
+		"opcion3": "Café",
+		"opcion4": "Leche",
+        "respuesta": "Cacao"
+    },
+	{
+		"id": 5,
+	    "pregunta": "¿Dónde se almacena la información genética del ser humano?",
+		"opcion1": "Sangre",
+		"opcion2": "Glóbulos rojos",
+		"opcion3": "Glóbulos blancos",
+		"opcion4": "ADN",
+        "respuesta": "ADN"
+    },
+	{
+		"id": 6,
+	    "pregunta": "¿Cuántos corazones tiene un pulpo?",
+		"opcion1": "1",
+		"opcion2": "2",
+		"opcion3": "3",
+		"opcion4": "No tiene corazón",
+        "respuesta": "3"
+    },
+    {
+		"id": 7,
+	    "pregunta": "¿Para qué sirven los orificios situados en el lomo de los delfines?",
+		"opcion1": "Para comer",
+		"opcion2": "Para respirar",
+		"opcion3": "Para saltar",
+		"opcion4": "Ninguna de las anteriores",
+        "respuesta": "Para respirar"
+    },
+    {
+		"id": 8,
+	    "pregunta": "¿Qué es la luna?",
+		"opcion1": "Un satélite",
+		"opcion2": "Una estrella",
+		"opcion3": "Un cometa",
+		"opcion4": "Un planeta",
+        "respuesta": "Un satélite"
+    },
+    {
+		"id": 9,
+	    "pregunta": "¿Cuántas horas dura un día?",
+		"opcion1": "23 horas",
+		"opcion2": "12 horas",
+		"opcion3": "24 horas",
+		"opcion4": "0 horas",
+        "respuesta": "24 horas"
+    },
+    {
+		"id": 10,
+	    "pregunta": "¿Cómo se llama la energía que pasa por los cableados de nuetra casa?",
+		"opcion1": "Agua potable",
+		"opcion2": "Internet",
+		"opcion3": "Gas",
+		"opcion4": "Electricidad",
+        "respuesta": "Electricidad"
+    }
+]

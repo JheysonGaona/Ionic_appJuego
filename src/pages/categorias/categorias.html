@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar color="dark">
+    <ion-title>
+      <b>Selecciona y juega</b>
+    </ion-title>
+  </ion-navbar>
+  <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
+  <meta charset="UTF-8">
+</ion-header>
+
+<ion-content padding id="body">
+  <label class="lblSaludo">
+    Hola {{ nombreUsuario }}, selecciona una categoria</label>
+  <div class="container">
+    <button ion-button class="btnCategories" (click)="pagGame('Entretenimiento')">Entretenimiento</button>
+    <button ion-button class="btnCategories" (click)="pagGame('Animales')">Animales</button>
+    <button ion-button class="btnCategories" (click)="pagGame('Ciencias')">Ciencias</button>
+    <button ion-button class="btnCategories" (click)="pagGame('Deportes')">Deportes</button>
+  </div>
+</ion-content>

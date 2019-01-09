@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+	    "pregunta": "¿Cómo se llama la hija de Simba?",
+	    "opcion1": "Kiara",
+	    "opcion2": "Nasim",
+		"opcion3": "Nala",  
+		"opcion4": "Sarabi",
+  	    "respuesta": "Kiara"
+    },
+    {
+		"id": 2,
+	    "pregunta": "Quién es Quasimodo",
+	    "opcion1": "El nombre real de Bestia",
+	    "opcion2": "El jorobado de Notre-Dame",
+		"opcion3": "El padre de simba",  
+		"opcion4": "El principe de Enredados",
+  	    "respuesta": "El jorobado de Notre-Dame"
+    },
+    {
+		"id": 3,
+	    "pregunta": "¿Cuál es el tercer deseo de Aladdin?",
+	    "opcion1": "Que el genio sea libre",
+	    "opcion2": "Escapar de prision",
+		"opcion3": "Convertirse en principe",  
+		"opcion4": "Casarse con Jasmine",
+  	    "respuesta": "Que el genio sea libre"
+    },
+    {
+		"id": 4,
+	    "pregunta": "¿De qué trabaja Sebastián, el cangrejo de 'La Sirenita'?",
+	    "opcion1": "Mayordomo",
+	    "opcion2": "Guardian protector",
+		"opcion3": "Cocinero",  
+		"opcion4": "Director de orquesta",
+  	    "respuesta": "Director de orquesta"
+    },
+    {
+		"id": 5,
+	    "pregunta": "¿Cómo se llama el mono chamán de 'El Rey León'?",
+	    "opcion1": "Monki",
+	    "opcion2": "Prometeo",
+		"opcion3": "Rafiki",  
+		"opcion4": "King kong",
+  	    "respuesta": "Rafiki"
+    },
+    {
+		"id": 6,
+	    "pregunta": "El siguiente hechizo a quien corresponde: De dia seras una y de noche otra, esa será la norma... hasta recibir el beso del verdadero amor... y del verdadero amor tomaras la forma.",
+	    "opcion1": "La princesa Fiona",
+	    "opcion2": "Blanca nieves",
+		"opcion3": "Cenicienta",  
+		"opcion4": "Bella durmiente",
+  	    "respuesta": "La princesa Fiona"
+    },
+    {
+		"id": 7,
+	    "pregunta": "¿Cómo se llamaba el primer gato de Los Simpsons?",
+	    "opcion1": "Pequeño ayudante de santa",
+	    "opcion2": "Bola de nieve",
+		"opcion3": "Princesa",  
+		"opcion4": "Pisoni",
+  	    "respuesta": "Bola de nieve"
+	},
+	{
+		"id": 8,
+	    "pregunta": "¿Cómo se llama el personaje que arregla todo lo que toca con su martillo en la pelicula 'Ralph el demoledor'?",
+	    "opcion1": "Ralph El Demoledor",
+	    "opcion2": "Vanellope Von Schweetz",
+		"opcion3": "Amargo Bill",  
+		"opcion4": "Felix",
+  	    "respuesta": "Felix"
+	},
+	{
+		"id": 9,
+	    "pregunta": "¿Que arma usa el superhéroe Thor?",
+	    "opcion1": "Espada",
+	    "opcion2": "Arco",
+		"opcion3": "Martillo",  
+		"opcion4": "Bastón",
+  	    "respuesta": "Martillo"
+	},
+	{
+		"id": 10,
+	    "pregunta": "¿A quién pertenece la frase 'Hasta el inifito y más allá'?",
+	    "opcion1": "Woody",
+	    "opcion2": "Buzz Lightyear",
+		"opcion3": "Marcianitos",  
+		"opcion4": "Emperador Zurg",
+  	    "respuesta": "Buzz Lightyear"
+	}
+]

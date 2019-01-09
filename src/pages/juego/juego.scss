@@ -1,0 +1,247 @@
+page-juego {
+
+    padding: 0;
+    margin: 0;
+
+    *::-webkit-scrollbar {
+      display: none;
+    }
+
+    ion-title{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-weight: bold; 
+    }
+    
+    .body{   
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .timer{
+        height: 5%;
+        margin: 0 0 5px 0;
+        font-size: 1.3em;
+        font-weight: bold;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        font-family: 'Merienda', cursive;
+        color: #000000;
+    }
+
+    .lblPregunta{
+        font-size: 1.3em;
+        width: 300px;
+        height: 180px;
+        padding: 0 5px;
+        border-radius: 20px;
+        margin: 5px auto 20px;
+        border: 3px solid #000000;
+        display: flex;
+        text-align: center;
+        color: #000000;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        font-family: 'Merriweather', serif;
+        background-color: #ffffff;
+    }
+
+    .contenedorBotones{
+        margin: 0 auto;
+        background-color:rgba(0, 0, 0, 0.4);
+        border-radius: 30px;
+        width: 300px;
+        padding-bottom: 20px;
+    }
+
+    .btn{
+        margin: 5% 5% 0 5%;
+        width: 90%;
+        height: 50px;
+        border-radius: 15px;
+        font-size: 1.1em;
+        box-shadow: 6px 6px 5px 3px rgba(0, 0, 0, 0.8);
+        font-family: 'Merriweather', serif;
+        background-color: #ffffff;
+        color: #000000;
+        font-weight: bold;
+    }
+
+    .btn:hover{
+        font-size: 1.1em;
+        text-shadow: 1.5px 1.5px #000000;
+        box-shadow: inset 0px 0px 15px 8px rgba(0, 0, 0, 0.9);
+        font-family: 'Merienda', cursive;
+        background-color: #77CE39;
+        color: #764400;
+    }
+
+    .lblResultado{
+        border-radius: 10px;
+        font-size: 1.4em;
+        height: 40px;
+        width: 300px;
+        margin: 10px auto 0;
+        border: 2px solid #000000;
+        font-weight: bold;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        background-color: #FF8907;
+        font-family: 'Merienda', cursive;
+        box-shadow: 0px 8px 15px 5px rgba(0, 0, 0, 0.8);
+    }
+}
+
+.alertaRtaCorrecta{
+
+    background-color: rgba(0, 0, 0, .85);
+
+    .alert-wrapper{
+        font-family: 'Merriweather', serif;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        text-shadow: 1.5px 1px #999;
+        text-align: center;
+        background-color: transparent;
+        background-image: url('../../assets/imgs/rtaCorrecta.png');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100%;
+    }
+
+    .alert-title {
+        text-align: center;
+        color: #ffffff;
+        padding: 0;
+        font-size: 1.8em;
+        margin: 210px 0 0;
+    }
+
+    h3{
+        text-align: center;
+        color: #ffffff;
+    }
+
+    .alert-button{
+        border: 5px solid #000000;
+        background-color: #23E9E1;
+        text-shadow: 2px 2px #000000;
+        width: 250px;
+        height: 70px;
+        font-size: 2.6em;
+        flex-direction: column;
+        margin: 0 auto;
+        padding: 15px 10px 0 25px;
+        margin-top: -20px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+}
+
+
+.alertaRtaIncorrecta{
+
+    background-color: rgba(0, 0, 0, .85);
+
+    .alert-wrapper{
+        font-family: 'Merriweather', serif;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        text-shadow: 1.5px 1px #999;
+        text-align: center;
+        background-color: transparent;
+        background-image: url('../../assets/imgs/rtaIncorrecta.png');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100%;
+    }
+
+    .alert-title {
+        text-align: center;
+        color: #ffffff;
+        padding: 0;
+        font-size: 1.8em;
+        margin: 210px 0 0;
+    }
+
+    h3{
+        text-align: center;
+        color: #ffffff;
+    }
+
+    .alert-button{
+        border: 5px solid #000000;
+        background-color: #23E9E1;
+        text-shadow: 2px 2px #000000;
+        width: 250px;
+        height: 70px;
+        font-size: 2.6em;
+        flex-direction: column;
+        margin: 0 auto;
+        padding: 15px 10px 0 25px;
+        margin-top: -20px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+}
+
+
+.alertaFueraTiempo{
+
+    background-color: rgba(0, 0, 0, .85);
+
+    .alert-wrapper{
+        font-family: 'Merriweather', serif;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        text-shadow: 1.5px 1px #999;
+        text-align: center;
+        background-color: transparent;
+        background-image: url('../../assets/imgs/fueraTiempo.png');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 100%;
+    }
+
+    .alert-title {
+        text-align: center;
+        color: #ffffff;
+        padding: 0;
+        font-size: 1.8em;
+        margin: 210px 0 0;
+    }
+
+    h3{
+        text-align: center;
+        color: #ffffff;
+    }
+
+    .alert-button{
+        border: 5px solid #000000;
+        background-color: #23E9E1;
+        text-shadow: 2px 2px #000000;
+        width: 250px;
+        height: 70px;
+        font-size: 2.6em;
+        flex-direction: column;
+        margin: 0 auto;
+        padding: 15px 10px 0 25px;
+        margin-top: -20px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+}

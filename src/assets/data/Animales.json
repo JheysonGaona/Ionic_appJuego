@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+	    "pregunta": "¿Cuál es el animal que maulla?",
+		"opcion1": "Perro",
+		"opcion2": "Caballo",
+		"opcion3": "Gato",
+		"opcion4": "Vaca",
+        "respuesta": "Gato"
+	},
+	{
+		"id": 2,
+	    "pregunta": "¿Quién de los siguientes animales, es carnivoro?",
+		"opcion1": "Zebra",
+		"opcion2": "Tigre",
+		"opcion3": "Elefante",
+		"opcion4": "Jirafa",
+        "respuesta": "Tigre"
+    },
+	{
+		"id": 3,
+	    "pregunta": "¿Cuál es el ave más veloz en la tierra?",
+		"opcion1": "Pavo",
+		"opcion2": "Gallina",
+		"opcion3": "Pato",
+		"opcion4": "Avestruz",
+        "respuesta": "Avestruz"
+    },
+	{
+		"id": 4,
+	    "pregunta": "¿Cuál es el animal que: canta cuando amanece y vuelve a cantar cuando el día desaparece?",
+		"opcion1": "Mono",
+		"opcion2": "Gallo",
+		"opcion3": "Koala",
+		"opcion4": "Murcielago",
+        "respuesta": "Gallo"
+    },
+	{
+		"id": 5,
+	    "pregunta": "¿Sabes cual es el instecto que no tiene patas?",
+		"opcion1": "Lombriz",
+		"opcion2": "Cienpies",
+		"opcion3": "Araña",
+		"opcion4": "Cucaracha",
+        "respuesta": "Lombriz"
+    },
+	{
+		"id": 6,
+	    "pregunta": "Soy conocido como el rey de la salva, pues yo cargo una enorme melena",
+		"opcion1": "Jaguar",
+		"opcion2": "Lobo",
+		"opcion3": "Pavo real",
+		"opcion4": "León",
+        "respuesta": "León"
+    },
+    {
+		"id": 7,
+	    "pregunta": "¿Cuál es el animal conocido como el mejor amigo del hombre?",
+		"opcion1": "Canario",
+		"opcion2": "Gato",
+		"opcion3": "Perro", 
+		"opcion4": "Conejo",
+        "respuesta": "Perro"
+    },
+    {
+		"id": 8,
+	    "pregunta": "Adivina adivinador... Cargadas van, cargadas vienen y en el camino no se detienen",
+		"opcion1": "Las mariposas",
+		"opcion2": "Las abejas",
+		"opcion3": "Las hormigas", 
+		"opcion4": "Las termitas",
+        "respuesta": "Las hormigas"
+    },
+    {
+		"id": 9,
+	    "pregunta": "¿Cómo se llama el animal que ahuya?",
+		"opcion1": "Gato",
+		"opcion2": "Borrego",
+		"opcion3": "Lobo",
+		"opcion4": "Oveja",
+        "respuesta": "Lobo"
+    },
+    {
+		"id": 10,
+	    "pregunta": "Qué tipo de animal es Arenita de la serie animada 'Bob Esponja'?",
+		"opcion1": "Ardilla",
+		"opcion2": "Esponja de mar",
+		"opcion3": "Calamardo",
+		"opcion4": "Cangrejo",
+        "respuesta": "Ardilla"
+    }
+]
