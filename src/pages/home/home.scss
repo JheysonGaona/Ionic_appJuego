@@ -13,10 +13,11 @@ page-home{
     }
 
     .body{
-        // background-image: url('../../assets/imgs/mar.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
+        // background-image: url('../../assets/imgs/imgFondo4.jpg');
+        // background-size: cover;
+        // background-repeat: no-repeat;
+        // background-position: center;
+        background-color: #ffe5c4;
     }
 
     .imgLogo{
@@ -25,8 +26,9 @@ page-home{
         display: block;
     }
     
-    .imgNinoPensando{
-        max-height: 100%;
+    div .imgNinoPensando{
+        width: 50%;
+        height: 50%;
         margin: 0 auto;
         display: block;
     }
@@ -94,5 +96,14 @@ page-home{
     .imgLogoUtpl{
         max-height: 100%;
         margin-left: 5px;
+    }
+
+    @media screen and (max-width: 480px) {
+        div .imgNinoPensando{
+            width: 90%;
+            height: 90%;
+            margin: 0 auto;
+            display: block;
+        }
     }
 }

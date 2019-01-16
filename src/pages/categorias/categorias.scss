@@ -21,9 +21,8 @@ page-categorias{
 
     .lblSaludo{
         font-size: 1.2em;
-        width: 300px;
-        height: 200px;
-        max-width: 120%;
+        width: 50%;
+        height: 35%;
         padding: 0 35px;
         background-size: 100%;
         color: #00CACA;
@@ -45,13 +44,13 @@ page-categorias{
         margin: 15px auto 0;
         background-color:rgba(0, 0, 0, 0.6);
         border-radius: 30px;
-        width: 300px;
+        width: 70%;
         padding: 5px 0;
     }
 
     .btnCategories{
         width: 90%;
-        height: 50px;
+        height: 60px;
         font-size: 1.3em;
         border-radius: 30px;
         margin: 15px auto;
@@ -68,6 +67,20 @@ page-categorias{
     .btnCategories:hover{
         background-color: #ffffff;
         box-shadow: 6px 6px 3px 0px rgba(0,0,0, 0.4);
+    }
+
+    @media screen and (max-width: 480px) {
+        .lblSaludo{
+            width: 90%;
+            height: 40%;
+        }
+
+        .container{
+            width: 90%;
+        }
+        .btnCategories{
+            height: 50px;
+        }        
     }
 }
 

@@ -51,7 +51,7 @@ export class CategoriasPage {
     this.audio = new Audio();
     this.audio.src = '../assets/sounds/musicFondo.mp3';
     this.audio.load();
-    // this.playAudio();
+    this.playAudio();
   }
 
   // Se activa cuando se deja una página, antes de que deje de ser la activa.
