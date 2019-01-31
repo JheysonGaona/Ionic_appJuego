@@ -223,50 +223,5 @@
 		"opcion3": "Iguana",
 		"opcion4": "Rana",
         "respuesta": "Rana"
-	},
-	{
-		"id": 26,
-	    "pregunta": "¿Cuál es el animal que tiene silla y no se puede sentar?",
-        "opcion 1": "Caballo",
-        "opcion 2": "Burro",
-        "opcion 3": "Mula",
-        "opcion 4": "Camello",
-        "respuesta ": "Caballo"
-	},
-	{
-		"id": 27,
-	    "pregunta": "Todo lo lleva delante: los colmillos para la lucha y la trompa para la ducha.",
-        "opcion 1": "Hipopotamo",
-        "opcion 2": "Rinoceronte",
-        "opcion 3": "Oso Hormiguero",
-        "opcion 4": "Elefante",
-        "respuesta ": "Elefante"
-	},
-	{
-		"id": 28,
-	    "pregunta": "Tengo hipo al decir mi nombre, ¿quien soy?",
-        "opcion 1": "Foca",
-        "opcion 2": "Castor",
-        "opcion 3": "Hipopótamo",
-        "opcion 4": "Lémur",
-        "respuesta ": "Hipopótamo"
-	},
-	{
-		"id": 29,
-	    "pregunta": "Anido en las torres,largo cuello temgo y  todos los años por San Blas vengo.",
-        "opcion 1": "Aguila",
-        "opcion 2": "Flamingo",
-        "opcion 3": "Cigüeña",
-        "opcion 4": "Patillo",
-        "respuesta ": "Cigüeña"
-	},
-	{
-		"id": 30,
-	    "pregunta": "Espuma que no es de jabón, como un gato grande que asusta un montón.",
-        "opcion 1": "Leopardo",
-        "opcion 2": "Tigre",
-        "opcion 3": "León",
-        "opcion 4": "Puma",
-        "respuesta ": "Puma"
 	}
 ]

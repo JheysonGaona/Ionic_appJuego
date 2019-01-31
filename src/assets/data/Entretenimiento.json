@@ -223,50 +223,5 @@
 		"opcion3": "Pocahontas",
 		"opcion4": "Masha",
         "respuesta": "Masha"
-	},
-	{
-		"id": 26,
-	    "pregunta": "Pony que le encanta la moda, dentro de la serie My Little Pony.",
-        "opcion 1": "Rainbow Dash",
-        "opcion 2": "Rarity",
-        "opcion 3": "Pinkie Pie",
-        "opcion 4": "Fluttershy",
-        "respuesta ": "Rarity"
-	},
-	{
-		"id": 27,
-	    "pregunta": "Jefe de los Autobots. de la pelicula 'Transformers'",
-        "opcion 1": "Optimus Prime",
-        "opcion 2": "Megatrón",
-        "opcion 3": "Bumblebee",
-        "opcion 4": "Sentinel Prime",
-        "respuesta ": "Optimus Prime"
-	},
-	{
-		"id": 28,
-	    "pregunta": "Nombre de la hermana de Elsa en la pelicula de Frozen.",
-        "opcion 1": "Ariel",
-        "opcion 2": "Cristal",
-        "opcion 3": "Adeline",
-        "opcion 4": "Ana",
-        "respuesta ": "Ana"
-	},
-	{
-		"id": 29,
-	    "pregunta": "En la serie de la doctora juguetes, quien es Felpita.",
-        "opcion 1": "Dragón",
-        "opcion 2": "Enfermera",
-        "opcion 3": "Muñeco de nieve",
-        "opcion 4": "Hipopótamo",
-        "respuesta ": "Dragón"
-	},
-	{
-		"id": 30,
-	    "pregunta": "Jefe de los Decepticons.",
-        "opcion 1": "Ratchet",
-        "opcion 2": "Ironhide",
-        "opcion 3": "Megatrón",
-        "opcion 4": "Jazz",
-        "respuesta ": "Megatrón"
 	}
 ]
