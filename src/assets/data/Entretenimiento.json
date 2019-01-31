@@ -88,5 +88,185 @@
 		"opcion3": "Marcianitos",  
 		"opcion4": "Emperador Zurg",
   	    "respuesta": "Buzz Lightyear"
+	},
+	{
+		"id": 11,
+	    "pregunta": "¿De qué color es la ropa de Peter Pan?",
+		"opcion1": "Roja",
+		"opcion2": "Azul",
+		"opcion3": "Verde",
+		"opcion4": "Amarilla",
+        "respuesta": "Verde"
+	},
+	{
+		"id": 12,
+	    "pregunta": "¿Cuál es la nacionalidad de los Pokemon?",
+		"opcion1": "China",
+		"opcion2": "Inglesa",
+		"opcion3": "Americana",
+		"opcion4": "Japonesa",
+        "respuesta": "Japonesa"
+    },
+    {
+		"id": 13,
+	    "pregunta": "De la pelicula 'Cars' como se llama la grúa que es el mejor amigo de el Rayo McQueen",
+		"opcion1": "Guido",
+		"opcion2": "Mate",
+		"opcion3": "Doc Hudson",
+		"opcion4": "Mack",
+        "respuesta": "Mate"
+    },
+    {
+		"id": 14,
+	    "pregunta": "¿Cómo se llama el gato enemigo de los Pitufos?",
+		"opcion1": "Gargamel",
+		"opcion2": "Azrael",
+		"opcion3": "Hércules",
+		"opcion4": "Feliz",
+        "respuesta": "Azrael"
+    },
+    {
+		"id": 15,
+	    "pregunta": "¿Quién fue dejando trocitos de pan para encontrar el camino de vuelta a casa?",
+		"opcion1": "Alicia",
+		"opcion2": "Peter Pan",
+		"opcion3": "Pulgarcito",
+		"opcion4": "El gato con botas",
+        "respuesta": "Pulgarcito"
+    },
+    {
+		"id": 16,
+	    "pregunta": "Woddy es el muñeco de un niño, ¿Cómo se llama?",
+		"opcion1": "Sid",
+		"opcion2": "Kid",
+		"opcion3": "Pitt",
+		"opcion4": "Andy",
+        "respuesta": "Andy"
+	},
+	{
+		"id": 17,
+	    "pregunta": "¿Cómo se llama el perro de Tintín?",
+		"opcion1": "Rintintín",
+		"opcion2": "Milú",
+		"opcion3": "Pluto",
+		"opcion4": "Odie",
+        "respuesta": "Milú"
+	},
+	{
+		"id": 18,
+	    "pregunta": "¿Cuál de las siguientes películas no es de Disney?",
+		"opcion1": "Arthur y los Minions",
+		"opcion2": "La bella durmiente",
+		"opcion3": "El rey león",
+		"opcion4": "Alladdin",
+        "respuesta": "Arthur y los Minions"
+	},
+	{
+		"id": 19,
+	    "pregunta": "¿En qué película de Disney podemos encontrar al cangrejo Sebastian?",
+		"opcion1": "Pocahontas",
+		"opcion2": "Delfi",
+		"opcion3": "Buscando a Nemo",
+		"opcion4": "La Sirenita",
+        "respuesta": "La Sirenita"
+	},
+	{
+		"id": 20,
+	    "pregunta": "¿Cómo se llama el muñeco de nieve en la pelicula de Frozen?",
+		"opcion1": "Olaf",
+		"opcion2": "Sebastian",
+		"opcion3": "Sid",
+		"opcion4": "Diego",
+        "respuesta": "Olaf"
+	},
+	{
+		"id": 21,
+	    "pregunta": "Nombre de la mascota del Grinch.",
+		"opcion1": "Garfield",
+		"opcion2": "Zeus",
+		"opcion3": "Tobi",
+		"opcion4": "Max",
+        "respuesta": "Max"
+	},
+	{
+		"id": 22,
+	    "pregunta": "¿Cómo se llama el mejor amigo del Rayo Mcqueen?",
+		"opcion1": "Fillmore",
+		"opcion2": "Matte",
+		"opcion3": "Doc Hudson",
+		"opcion4": "Sally",
+        "respuesta": "Matte"
+	},
+	{
+		"id": 23,
+	    "pregunta": "Mascota de la serie Phineas y Ferb.",
+		"opcion1": "Perry el ornitorrinco",
+		"opcion2": "Arthur",
+		"opcion3": "Simba",
+		"opcion4": "Mowgli",
+        "respuesta": "Perry el ornitorrinco"
+	},
+	{
+		"id": 24,
+	    "pregunta": "Forma parte de los Avengers.",
+		"opcion1": "Zeus",
+		"opcion2": "Thor",
+		"opcion3": "Hércules",
+		"opcion4": "Medusa",
+        "respuesta": "Thor"
+	},
+	{
+		"id": 25,
+	    "pregunta": "¿Cuál es el nombre de la niña que tiene como mejor amigo a un oso?",
+		"opcion1": "Ariel",
+		"opcion2": "Blancanieves",
+		"opcion3": "Pocahontas",
+		"opcion4": "Masha",
+        "respuesta": "Masha"
+	},
+	{
+		"id": 26,
+	    "pregunta": "Pony que le encanta la moda, dentro de la serie My Little Pony.",
+        "opcion 1": "Rainbow Dash",
+        "opcion 2": "Rarity",
+        "opcion 3": "Pinkie Pie",
+        "opcion 4": "Fluttershy",
+        "respuesta ": "Rarity"
+	},
+	{
+		"id": 27,
+	    "pregunta": "Jefe de los Autobots. de la pelicula 'Transformers'",
+        "opcion 1": "Optimus Prime",
+        "opcion 2": "Megatrón",
+        "opcion 3": "Bumblebee",
+        "opcion 4": "Sentinel Prime",
+        "respuesta ": "Optimus Prime"
+	},
+	{
+		"id": 28,
+	    "pregunta": "Nombre de la hermana de Elsa en la pelicula de Frozen.",
+        "opcion 1": "Ariel",
+        "opcion 2": "Cristal",
+        "opcion 3": "Adeline",
+        "opcion 4": "Ana",
+        "respuesta ": "Ana"
+	},
+	{
+		"id": 29,
+	    "pregunta": "En la serie de la doctora juguetes, quien es Felpita.",
+        "opcion 1": "Dragón",
+        "opcion 2": "Enfermera",
+        "opcion 3": "Muñeco de nieve",
+        "opcion 4": "Hipopótamo",
+        "respuesta ": "Dragón"
+	},
+	{
+		"id": 30,
+	    "pregunta": "Jefe de los Decepticons.",
+        "opcion 1": "Ratchet",
+        "opcion 2": "Ironhide",
+        "opcion 3": "Megatrón",
+        "opcion 4": "Jazz",
+        "respuesta ": "Megatrón"
 	}
 ]

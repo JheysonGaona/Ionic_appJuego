@@ -13,6 +13,7 @@ import { PuntajePageModule } from '../pages/puntaje/puntaje.module';
 
 // Client
 import {HttpClientModule} from '@angular/common/http'
+import { ContactosPageModule } from '../pages/contactos/contactos.module';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import {HttpClientModule} from '@angular/common/http'
     CategoriasPageModule,
     JuegoPageModule,
     PuntajePageModule,
+    ContactosPageModule,
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],

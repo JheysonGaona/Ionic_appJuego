@@ -13,10 +13,8 @@ page-juego {
         font-weight: bold; 
     }
     
-    .body{   
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
+    .body{
+        background-image: url('../../assets/imgs/fondoJuego.png');
     }
 
     .timer{
@@ -31,6 +29,7 @@ page-juego {
         flex-direction: column;
         font-family: 'Merienda', cursive;
         color: #000000;
+        background-color: #ececec;
     }
 
     .lblPregunta{

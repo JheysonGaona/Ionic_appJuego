@@ -88,5 +88,185 @@
 		"opcion3": "Calamardo",
 		"opcion4": "Cangrejo",
         "respuesta": "Ardilla"
-    }
+    },
+    {
+		"id": 11,
+	    "pregunta": "As no soy, as no fui, as no seré hasta el fin.",
+		"opcion1": "Perro",
+		"opcion2": "Asno",
+		"opcion3": "Ardilla",
+		"opcion4": "Caballo",
+        "respuesta": "Asno"
+	},
+	{
+		"id": 12,
+	    "pregunta": "Soy un animal muy elegante, muy veloz y poco fiero; y cuando quiero calzarme voy a casa del herrero. ",
+		"opcion1": "Zebra",
+		"opcion2": "León",
+		"opcion3": "Elefante",
+		"opcion4": "Caballo",
+        "respuesta": "Caballo"
+    },
+    {
+		"id": 13,
+	    "pregunta": "Antes huevecito, después capullito, más tarde volaré como un pajarito.",
+		"opcion1": "Pájaro",
+		"opcion2": "Mariposa",
+		"opcion3": "Colibrí",
+		"opcion4": "Larva",
+        "respuesta": "Mariposa"
+    },
+    {
+		"id": 14,
+	    "pregunta": "Soy astuto y juguetón y cazar un ratón es mi mayor afición.",
+		"opcion1": "Puma",
+		"opcion2": "Gato",
+		"opcion3": "Tigre",
+		"opcion4": "León",
+        "respuesta": "Gato"
+    },
+    {
+		"id": 15,
+	    "pregunta": "¿Cuál es el animal, de campo o corral, que si una zanahoria le das sus dientecitos verás?",
+		"opcion1": "Cabra",
+		"opcion2": "Conejo",
+		"opcion3": "Cobayo",
+		"opcion4": "Hamster",
+        "respuesta": "Conejo"
+    },
+    {
+		"id": 16,
+	    "pregunta": "De celda en celda voy pero presa no estoy.",
+		"opcion1": "Abeja",
+		"opcion2": "Zebra",
+		"opcion3": "Mariposa",
+		"opcion4": "Avispa",
+        "respuesta": "Abeja"
+	},
+	{
+		"id": 17,
+	    "pregunta": "En alto vive, en alto mora, en alto teje la tejedora.",
+		"opcion1": "Avizpa",
+		"opcion2": "Mosca",
+		"opcion3": "Mariposa",
+		"opcion4": "Araña",
+        "respuesta": "Araña"
+	},
+	{
+		"id": 18,
+	    "pregunta": "Sal al campo por las noches si me quieres conocer, soy señor de grandes ojos, cara seria y gran saber.",
+		"opcion1": "Ardilla",
+		"opcion2": "Búho",
+		"opcion3": "Mapache",
+		"opcion4": "Nutria",
+        "respuesta": "Búho"
+	},
+	{
+		"id": 19,
+	    "pregunta": "No lo parezco y soy pez, y mi forma la refleja una pieza de ajedrez.",
+		"opcion1": "Estrella de mar",
+		"opcion2": "Tiburón",
+		"opcion3": "Caballito de Mar",
+		"opcion4": "Ballena",
+        "respuesta": "Caballito de Mar"
+	},
+	{
+		"id": 20,
+	    "pregunta": "Un solo portero, un solo inquilino, tu casa redonda la llevas contigo.",
+		"opcion1": "Caracol",
+		"opcion2": "Gallo",
+		"opcion3": "Perro",
+		"opcion4": "Tortuga",
+        "respuesta": "Caracol"
+	},
+	{
+		"id": 21,
+	    "pregunta": "Cargadas van, cargadas viene y en el camino no se detienen.",
+		"opcion1": "Gallina",
+		"opcion2": "Hormiga",
+		"opcion3": "Vaca",
+		"opcion4": "Araña",
+        "respuesta": "Hormiga"
+	},
+	{
+		"id": 22,
+	    "pregunta": "En dos castañuelas voy encerrado y al sacarme del mar me pongo colorado.",
+		"opcion1": "Calamar",
+		"opcion2": "Mejillón",
+		"opcion3": "Medusa",
+		"opcion4": "Estrella de mar",
+        "respuesta": "Mejillón"
+	},
+	{
+		"id": 23,
+	    "pregunta": "Vuelo de noche, duermo de día y nunca verás plumas en el ala mía.",
+		"opcion1": "Avizpa",
+		"opcion2": "Mosca",
+		"opcion3": "Mariposa",
+		"opcion4": "Murciélago",
+        "respuesta": "Murciélago"
+	},
+	{
+		"id": 24,
+	    "pregunta": "Puñadito de algodón que brinca sin ton ni son.",
+		"opcion1": "Cobayo",
+		"opcion2": "Oveja",
+		"opcion3": "Cabra",
+		"opcion4": "Conejo",
+        "respuesta": "Oveja"
+	},
+	{
+		"id": 25,
+	    "pregunta": "Canto en la orilla, vivo en el agua, no soy pescado, ni soy cigarra.",
+		"opcion1": "Delfín",
+		"opcion2": "Cocodrilo",
+		"opcion3": "Iguana",
+		"opcion4": "Rana",
+        "respuesta": "Rana"
+	},
+	{
+		"id": 26,
+	    "pregunta": "¿Cuál es el animal que tiene silla y no se puede sentar?",
+        "opcion 1": "Caballo",
+        "opcion 2": "Burro",
+        "opcion 3": "Mula",
+        "opcion 4": "Camello",
+        "respuesta ": "Caballo"
+	},
+	{
+		"id": 27,
+	    "pregunta": "Todo lo lleva delante: los colmillos para la lucha y la trompa para la ducha.",
+        "opcion 1": "Hipopotamo",
+        "opcion 2": "Rinoceronte",
+        "opcion 3": "Oso Hormiguero",
+        "opcion 4": "Elefante",
+        "respuesta ": "Elefante"
+	},
+	{
+		"id": 28,
+	    "pregunta": "Tengo hipo al decir mi nombre, ¿quien soy?",
+        "opcion 1": "Foca",
+        "opcion 2": "Castor",
+        "opcion 3": "Hipopótamo",
+        "opcion 4": "Lémur",
+        "respuesta ": "Hipopótamo"
+	},
+	{
+		"id": 29,
+	    "pregunta": "Anido en las torres,largo cuello temgo y  todos los años por San Blas vengo.",
+        "opcion 1": "Aguila",
+        "opcion 2": "Flamingo",
+        "opcion 3": "Cigüeña",
+        "opcion 4": "Patillo",
+        "respuesta ": "Cigüeña"
+	},
+	{
+		"id": 30,
+	    "pregunta": "Espuma que no es de jabón, como un gato grande que asusta un montón.",
+        "opcion 1": "Leopardo",
+        "opcion 2": "Tigre",
+        "opcion 3": "León",
+        "opcion 4": "Puma",
+        "respuesta ": "Puma"
+	}
 ]

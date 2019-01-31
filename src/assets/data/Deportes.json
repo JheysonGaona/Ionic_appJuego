@@ -88,5 +88,95 @@
 		"opcion3": "Skateboarding",
 		"opcion4": "Patinaje",
         "respuesta": "Ciclismo"
+	},
+    {
+		"id": 11,
+	    "pregunta": "¿En qué país se inventó el voleibol?",
+		"opcion1": "Gran Bretaña",
+		"opcion2": "Francia",
+		"opcion3": "Rusia",
+		"opcion4": "Estados Unidos",
+        "respuesta": "Estados Unidos"
+	},
+    {
+		"id": 12,
+	    "pregunta": "¿Quién inventó el arte marcial llamado Jeet Kune Do?",
+		"opcion1": "David Carradine",
+		"opcion2": "Bruce Lee",
+		"opcion3": "Kato Mimoko",
+		"opcion4": "Ninguna es correcta",
+        "respuesta": "Bruce Lee"
+	},
+    {
+		"id": 13,
+	    "pregunta": "¿Cuánto dura un partido de fútbol?",
+		"opcion1": "80 minutos",
+		"opcion2": "75 minutos",
+		"opcion3": "45 minutos",
+		"opcion4": "90 minutos",
+        "respuesta": "90 minutos"
+	},
+    {
+		"id": 14,
+	    "pregunta": "¿En cuál de estos deportes no hay árbitro?",
+		"opcion1": "Volleyball",
+		"opcion2": "Basketball",
+		"opcion3": "Ultimate",
+		"opcion4": "Football",
+        "respuesta": "Ultimate"
+	},
+    {
+		"id": 15,
+	    "pregunta": "¿Cuál es el país de origen del futbolista Lionel Messi?",
+		"opcion1": "Brasil",
+		"opcion2": "Argentina",
+		"opcion3": "Chile",
+		"opcion4": "España",
+        "respuesta": "Argentina"
+	},
+    {
+		"id": 16,
+	    "pregunta": "¿Cuántos cuadros tiene un tablero de ajedres?",
+		"opcion1": "64",
+		"opcion2": "49",
+		"opcion3": "36",
+		"opcion4": "81",
+        "respuesta": "64"
+	},
+    {
+		"id": 17,
+	    "pregunta": "De que color es la camisa de la seleccion Ecuatoriana de fultol",
+		"opcion1": "amarilla",
+		"opcion2": "azul",
+		"opcion3": "rojo",
+		"opcion4": "blanca",
+        "respuesta": "amarilla"
+	},
+    {
+		"id": 18,
+	    "pregunta": "Como se llama el estadio de Loja",
+		"opcion1": "Reina del Cisne",
+		"opcion2": "Reina de los Cielos",
+		"opcion3": "Reina del Carmen",
+		"opcion4": "Reina de Guadalupe",
+        "respuesta": "Reina del Cisne"
+	},
+    {
+		"id": 19,
+	    "pregunta": "Cuantos lados tiene una tabla de ajedres",
+		"opcion1": "6x6",
+		"opcion2": "9x9",
+		"opcion3": "8x8",
+		"opcion4": "7x8",
+        "respuesta": "8x8"
+	},
+    {
+		"id": 20,
+	    "pregunta": "Cual de los siguientes no es deporte de carreara de autos",
+		"opcion1": "Nascar",
+		"opcion2": "Formula 1",
+		"opcion3": "Rally",
+		"opcion4": "Motociclismo",
+        "respuesta": "Motociclismo"
 	}
 ]

@@ -88,5 +88,185 @@
 		"opcion3": "Gas",
 		"opcion4": "Electricidad",
         "respuesta": "Electricidad"
+    },
+    {
+		"id": 11,
+	    "pregunta": "De que estan compuestas las nubes",
+		"opcion1": "Aire",
+		"opcion2": "Agua",
+		"opcion3": "Hielo",
+		"opcion4": "Tierra",
+        "respuesta": "Agua"
+    },
+    {
+		"id": 12,
+	    "pregunta": "¿Cual de los siguientes no pertenece a los cuatro elementos principales?",
+		"opcion1": "Tierra",
+		"opcion2": "Aire",
+		"opcion3": "Lava",
+		"opcion4": "Fuego",
+        "respuesta": "Lava"
+    },
+    {
+		"id": 13,
+	    "pregunta": "Las plantas estas sujetas a la tierra mediante",
+		"opcion1": "Raiz",
+		"opcion2": "Hojas",
+		"opcion3": "Flores",
+		"opcion4": "Tallo",
+        "respuesta": "Raiz"
+    },
+    {
+		"id": 14,
+	    "pregunta": "Se dice que 20 + 10 - 20 = ?",
+		"opcion1": "10",
+		"opcion2": "20",
+		"opcion3": "30",
+		"opcion4": "0",
+        "respuesta": "10"
+    },
+    {
+		"id": 15,
+	    "pregunta": "El sol es una",
+		"opcion1": "Estrella",
+		"opcion2": "Planeta",
+		"opcion3": "satélite",
+		"opcion4": "cometa",
+        "respuesta": "Estrella"
+    },
+    {
+		"id": 16,
+	    "pregunta": "¿De qué color es la sange de los peces?",
+		"opcion1": "azul",
+		"opcion2": "verde",
+		"opcion3": "rojo",
+		"opcion4": "morado",
+        "respuesta": "rojo"
+    },
+    {
+		"id": 17,
+	    "pregunta": "¿Cuál es el hueso más pequeño del cuerpo?",
+		"opcion1": "El yunque",
+		"opcion2": "La falange",
+		"opcion3": "El estribo",
+		"opcion4": "Ninguna es correcta",
+        "respuesta": "El estribo"
+    },
+    {
+		"id": 18,
+	    "pregunta": "¿Dónde vive el delfín rosado?",
+		"opcion1": "En Brasil",
+		"opcion2": "En Oceanía",
+		"opcion3": "Solo en aguas cálidas",
+		"opcion4": "Solo en aguas muy frías",
+        "respuesta": "En Brasil"
+    },
+    {
+		"id": 19,
+	    "pregunta": "¿Cuál es el mamífero más grande conocido hasta la actualidad?",
+		"opcion1": "Rinoceronte",
+		"opcion2": "Ballena Azul",
+		"opcion3": "Elefante",
+		"opcion4": "Cachalote",
+        "respuesta": "Ballena Azul"
+    },
+    {
+		"id": 20,
+	    "pregunta": "¿Qué es un equino?",
+		"opcion1": "Una vaca",
+		"opcion2": "Un antílope",
+		"opcion3": "Una oveja",
+		"opcion4": "Un caballo",
+        "respuesta": "Un caballo"
+    },
+    {
+		"id": 21,
+	    "pregunta": "¿Qué causa furor en Internet?",
+		"opcion1": "Los gansos",
+		"opcion2": "Los ratones",
+		"opcion3": "Los gatos",
+		"opcion4": "Los cangrejos",
+        "respuesta": "Los gatos"
+    },
+    {
+		"id": 22,
+	    "pregunta": "¿Qué función cumplen los bigotes del gato?",
+		"opcion1": "Son de adorno",
+		"opcion2": "Son un órgano táctil",
+		"opcion3": "Son un órgano auditivo",
+		"opcion4": "Son un órgano olfativo",
+        "respuesta": "Son un órgano táctil"
+    },
+    {
+		"id": 23,
+	    "pregunta": "¿Qué hace la cochinilla de la humedad si la tocamos?",
+		"opcion1": "pica",
+		"opcion2": "corre",
+		"opcion3": "se muere",
+		"opcion4": "se enrolla",
+        "respuesta": "se enrolla"
+    },
+    {
+		"id": 24,
+	    "pregunta": "¿Qué es lo que transforma la leche en yogur?",
+		"opcion1": "Un virus",
+		"opcion2": "Un musgo",
+		"opcion3": "Una bacteria",
+		"opcion4": "El tiempo",
+        "respuesta": "Una bacteria"
+    },
+    {
+		"id": 25,
+	    "pregunta": "¿Qué es Saturno?",
+		"opcion1": "Un satélite",
+		"opcion2": "Un planeta",
+		"opcion3": "Un Sentauro",
+		"opcion4": "Ninguna es correcta",
+        "respuesta": "Un planeta"
+    },
+    {
+		"id": 26,
+	    "pregunta": "¿Cuál de estas redes sociales es de ámbito laboral?",
+		"opcion1": "Facebook",
+		"opcion2": "Instagram",
+		"opcion3": "LinkedIn",
+		"opcion4": "Tuenti",
+        "respuesta": "LinkedIn"
+    },
+    {
+		"id": 27,
+	    "pregunta": "¿Con que parte del cuerpo hacen el zumbido las abejas?",
+		"opcion1": "Con las alas",
+		"opcion2": "Con las antenas",
+		"opcion3": "Con la boca",
+		"opcion4": "Con las patas",
+        "respuesta": "Con las alas"
+    },
+    {
+		"id": 28,
+	    "pregunta": "¿Con qué suele arreglarse un diente con caries?",
+		"opcion1": "Empaste",
+		"opcion2": "Extrayéndolo",
+		"opcion3": "Limpieza bucal",
+		"opcion4": "Ortodoncia",
+        "respuesta": "Empaste"
+    },
+    {
+		"id": 29,
+	    "pregunta": "¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+		"opcion1": "En el  brazo",
+		"opcion2": "En la rodilla",
+		"opcion3": "En el tobillo",
+		"opcion4": "En la espalda",
+        "respuesta": "En el tobillo"
+    },
+    {
+		"id": 30,
+	    "pregunta": "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+		"opcion1": "YouTube",
+		"opcion2": "Glooge",
+		"opcion3": "VideoTube",
+		"opcion4": "CineTube",
+        "respuesta": "YouTube"
     }
 ]
